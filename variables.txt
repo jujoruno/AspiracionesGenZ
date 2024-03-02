@@ -1,0 +1,40 @@
+How likely would you work for a company whose mission is not bringing social impact ?$10
+How likely would you work for a company whose mission is not bringing social impact ?$5
+How likely would you work for a company whose mission is not bringing social impact ?$1
+
+Which of the below careers looks close to your Aspirational job ?$Design and Develop amazing software
+Which of the below careers looks close to your Aspirational job ?$Manage and drive End-to-End Projects or Products
+Which of the below careers looks close to your Aspirational job ?$Build and develop a Team
+Which of the below careers looks close to your Aspirational job ?$Work in a BPO setup for some well known client
+Which of the below careers looks close to your Aspirational job ?$Look deeply into Data and generate insights
+
+Which of the following setup you would like to work ?$Work with 2 to 3 people in my team
+Which of the following setup you would like to work ?$Work with 5 to 6 people in my team
+Which of the following setup you would like to work ?$Work alone
+Which of the following setup you would like to work ?$Work with 7 to 10 or more people in my team
+Which of the following setup you would like to work ?$Work with more than 10 people in my team
+
+Your Gender$Male
+
+Would you definitely pursue a Higher Education / Post Graduation outside of India ? If only you have to self sponsor it.$No I would not be pursuing Higher Education outside of India
+Would you definitely pursue a Higher Education / Post Graduation outside of India ? If only you have to self sponsor it.$No, But if someone could bare the cost I will
+Would you definitely pursue a Higher Education / Post Graduation outside of India ? If only you have to self sponsor it.$Yes, I will earn and do that
+
+How likely is that you will work for one employer for 3 years or more ?$No way, 3 years with one employer is crazy
+How likely is that you will work for one employer for 3 years or more ?$This will be hard to do, but if it is the right company I would try
+How likely is that you will work for one employer for 3 years or more ?$Will work for 3 years or more
+
+What type of Manager would you work without looking into your watch ?$Manager who clearly describes what she/he needs
+What type of Manager would you work without looking into your watch ?$Manager who explains what is expected, sets a goal and helps achieve it
+What type of Manager would you work without looking into your watch ?$Manager who sets goal and helps me achieve it
+What type of Manager would you work without looking into your watch ?$Manager who sets targets and expects me to achieve it
+What type of Manager would you work without looking into your watch ?$Manager who sets unrealistic targets
+
+What is the most preferred working environment for you.$Every Day Office Environment
+What is the most preferred working environment for you.$Fully Remote with No option to visit offices
+What is the most preferred working environment for you.$Fully Remote with Options to travel as and when needed
+What is the most preferred working environment for you.$Hybrid Working Environment with less than 10 days a month at office
+What is the most preferred working environment for you.$Hybrid Working Environment with less than 15 days a month at office
+What is the most preferred working environment for you.$Hybrid Working Environment with less than 3 days a month at office
+
+How likely would you work for a company whose mission is misaligned with their public actions or even their product ?$Will work for them
